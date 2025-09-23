@@ -1,0 +1,52 @@
+leftnav:
+- identifier: 332050f6-7a75-8526-95e1-53d99e4dd874
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ef411d6f-2d6b-0237-528d-fdb9522f3a97
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: dd8e3418-9bd3-ecd5-ed7f-9d14bb938ba7
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: b71f0a8c-d5da-da5e-9652-9015522539b2
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: bfcbdee3-7776-aeb0-ce05-2be47959aa96
+  name: Personal Statement
+  pageRef: /pages/assignments/assignment-1-personal-statement
+  parent: b71f0a8c-d5da-da5e-9652-9015522539b2
+  weight: 50
+- identifier: eca7f224-fb2e-9f90-6a26-494bbd963071
+  name: 'Journal Reflection #1'
+  pageRef: /pages/assignments/assignment-2-paper-topic-i-and-ii
+  parent: b71f0a8c-d5da-da5e-9652-9015522539b2
+  weight: 60
+- identifier: 321e6c16-afb4-613d-9f83-65ca81c1cf5b
+  name: 'Journal Reflection #2'
+  pageRef: /pages/assignments/assignment-3-paper-addressing-topic-i-and-ii
+  parent: b71f0a8c-d5da-da5e-9652-9015522539b2
+  weight: 70
+- identifier: d15ce459-35e3-3eb4-c3b8-09256da41fbb
+  name: 'Journal Reflection #3'
+  pageRef: /pages/assignments/assignment-4-paper-addressing-topics-i-iii
+  parent: b71f0a8c-d5da-da5e-9652-9015522539b2
+  weight: 80
+- identifier: aa937a0c-799b-ae1b-12af-79f38c574c73
+  name: 'Formal Reflective Paper #1'
+  pageRef: /pages/assignments/assignment-5-reflective-paper-1
+  parent: b71f0a8c-d5da-da5e-9652-9015522539b2
+  weight: 90
+- identifier: 8eb32ce8-62ad-a0a3-267a-d516c088829c
+  name: 'Formal Reflective Paper #2'
+  pageRef: /pages/assignments/assignment-6-final-reflective-paper
+  parent: b71f0a8c-d5da-da5e-9652-9015522539b2
+  weight: 100
+- identifier: eadaf32b-fe35-3c7c-92ec-be872b0d2dbb
+  name: Portfolio
+  pageRef: /pages/assignments/assignment-7
+  parent: b71f0a8c-d5da-da5e-9652-9015522539b2
+  weight: 110
