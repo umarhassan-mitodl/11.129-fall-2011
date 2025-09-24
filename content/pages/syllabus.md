@@ -19,7 +19,7 @@ There is no prerequisite, but there is a corequisite of [*11.124 Introduction to
 
 ## The MIT/Wellesley Scheller Teacher Education Program
 
-The [MIT/Wellesley Scheller Teacher Education Program](http://education.mit.edu/classes/overview) (STEP) prepares MIT and Wellesley College students to become teachers who are:
+The {{% resource_link "5185d5da-d25c-4983-9d45-d7fe675ada80" "MIT/Wellesley Scheller Teacher Education Program" %}} (STEP) prepares MIT and Wellesley College students to become teachers who are:
 
 - Competent to teach in their field and not afraid to challenge established norms
 - Able to bridge the boundaries among disciplines
