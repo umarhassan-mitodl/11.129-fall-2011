@@ -4,8 +4,6 @@ description: This syllabus section provides an overview of the main activities o
   the class and information on meeting times, prerequisites, requirements, grading,
   expectations, and the MIT/Wellesley Scheller Teacher Education Program.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
